@@ -1,0 +1,11 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "next-to-me",
+    "namespace": "weVsVirus",
+    "platform": "Static webserver",
+    "viewtype": "XML",
+    "viewname": "MainView",
+    "ui5libs": "Local resources (OpenUI5)",
+    "newdir": true
+  }
+}
